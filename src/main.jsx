@@ -1,19 +1,19 @@
 import './styles.css';
 
-const names = ['Fortuna Barcelona', 'Casa del Decimo', 'Rambla Fortuna', 'Sorteo BCN', 'Decimo Club', 'LotoNova Barcelona'];
+const names = ['Numero de Oro', 'Numero d\'Oro Barcelona', 'Oro Barcelona', 'Casa del Oro', 'Decimo Oro', 'Rambla de Oro'];
 const cards = ['Grand tirage annuel', 'Tirage de janvier', 'Tirage europeen', 'Tirage classique', 'Tirage quotidien'];
 
 const root = document.querySelector('#root');
 root.innerHTML = `
   <header class="hero">
     <nav class="nav">
-      <div class="brand">Fortuna Barcelona</div>
+      <div class="brand">Numero de Oro</div>
       <a href="#catalogue">Catalogue</a>
     </nav>
     <section class="hero-inner">
       <div>
         <p class="eyebrow">Prototype prive</p>
-        <h1>Une experience digitale premium pour une adresse historique a Barcelone.</h1>
+        <h1>Numero de Oro, une experience digitale premium pour une adresse historique a Barcelone.</h1>
         <p class="lead">Cette maquette sert a valider le design, la navigation, les textes de confiance et la presentation des produits avant toute integration avancee.</p>
         <a class="cta" href="#catalogue">Voir la maquette</a>
       </div>
@@ -26,8 +26,8 @@ root.innerHTML = `
   </header>
 
   <section class="section">
-    <p class="eyebrow">Naming</p>
-    <h2>Propositions de noms</h2>
+    <p class="eyebrow">Identite</p>
+    <h2>Nom retenu : Numero de Oro</h2>
     <div class="chips">${names.map(name => `<span>${name}</span>`).join('')}</div>
   </section>
 
@@ -60,5 +60,5 @@ root.innerHTML = `
     </ul>
   </section>
 
-  <footer>Fortuna Barcelona — maquette privee</footer>
+  <footer>Numero de Oro — maquette privee</footer>
 `;
