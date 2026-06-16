@@ -1,8 +1,8 @@
-# Número de Oro — prototype web non transactionnel
+# Número de Oro — V1 front-end non transactionnelle
 
-Prototype front-end pour une administration physique à Barcelone souhaitant présenter ses produits, son histoire, ses services et un parcours de réservation démonstratif.
+Prototype front-end pour une administration physique à Barcelone souhaitant présenter ses produits, son histoire, ses services et préparer une future expérience digitale plus complète.
 
-Important : cette version ne vend aucun billet, ne prend aucun paiement et ne valide aucune participation réelle. Toute mise en production devra être validée juridiquement et techniquement selon les règles applicables en Espagne, les conditions de SELAE et les exigences de protection des joueurs.
+Important : cette version ne vend aucun billet, ne prend aucun paiement et ne valide aucune participation réelle. Toute mise en production devra être validée juridiquement et techniquement selon les règles applicables en Espagne, les conditions SELAE et les exigences de protection des joueurs.
 
 ## Objectif
 
@@ -17,6 +17,18 @@ Important : cette version ne vend aucun billet, ne prend aucun paiement et ne va
 **Número de Oro**
 
 Pourquoi ce nom fonctionne : il est court, facile à retenir, premium, directement lié à la chance et au billet gagnant, et il peut être décliné graphiquement avec un univers or / bleu nuit / blanc.
+
+## Ce que contient la V1
+
+- Hero premium avec positionnement de marque.
+- Navigation vers les sections importantes.
+- Catalogue de tirages : Navidad, El Niño, EuroMillones, La Primitiva, BonoLoto, Lotería Nacional.
+- Section parcours client en 4 étapes.
+- Section boutique physique à Barcelone.
+- Bloc conformité et sécurité.
+- FAQ.
+- Responsive mobile.
+- Boutons de démonstration sans transaction réelle.
 
 ## Stack proposée
 
