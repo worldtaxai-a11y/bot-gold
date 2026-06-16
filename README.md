@@ -1,6 +1,6 @@
-# Fortuna Barcelona — prototype web non transactionnel
+# Numero de Oro — prototype web non transactionnel
 
-Prototype front-end pour une administration de loterie physique souhaitant présenter ses produits, son histoire, ses services et un parcours de réservation démonstratif.
+Prototype front-end pour une administration physique à Barcelone souhaitant présenter ses produits, son histoire, ses services et un parcours de réservation démonstratif.
 
 Important : cette version ne vend aucun billet, ne prend aucun paiement et ne valide aucune participation réelle. Toute mise en production devra être validée juridiquement et techniquement selon les règles applicables en Espagne, les conditions de SELAE et les exigences de protection des joueurs.
 
@@ -8,15 +8,20 @@ Important : cette version ne vend aucun billet, ne prend aucun paiement et ne va
 
 - Présenter l'administration d'origine à Barcelone.
 - Montrer les grandes familles de tirages et produits.
-- Simuler un panier et un parcours de commande non réel.
+- Préparer une expérience utilisateur claire, premium et mobile-first.
 - Prévoir une architecture future compatible avec un prestataire de paiement, après validation légale.
 - Mettre en avant la confiance : point de vente autorisé, majorité, jeu responsable, conservation des reçus et sécurité.
+
+## Nom retenu
+
+**Numero de Oro**
+
+Pourquoi ce nom fonctionne : il est court, facile à retenir, premium, directement lié à la chance et au billet gagnant, et il peut être décliné graphiquement avec un univers or / bleu nuit / blanc.
 
 ## Stack proposée
 
 - Vite
-- React
-- TypeScript
+- JavaScript
 - CSS moderne responsive
 
 ## Lancement local
